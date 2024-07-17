@@ -8,8 +8,11 @@ https://renoise.com/tools/chordlord (English) https://renoise.com/tools/acordese
 Read the Manual PDF as attached.
 
 http://eatme.pro/software/chordlord 
+
 https://ietmie.neocities.org/software/chordlord
+
 https://renoise.com/tools/browse?renoiseversion=5
+
 
 Download Renoise on https://renoise.com/download or acquire a registration on http://renoise.com and download via the backstage.
 
