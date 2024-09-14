@@ -1,9 +1,13 @@
 # chordlord
 ChordLord for Renoise 3
 
-version 4.00.235 with 235 chords in 40 scales/keys in harmony for all notes, edit step follow on record, a jump and up button, arpeggio (skip lines) with 4 modes in the options, window size, button size, chord complexity level with button colors, keyboard key control via Renoise preferences, uses step line jump below Pattern Editor, octave and velocity on top of Renoise window…
+version 4.01.235 with 235 chords in 36 scales/keys in harmony for all notes, edit step follow on record, a jump and up button, arpeggio (skip lines) with 4 modes in the options, window size, button size, chord complexity level with button colors, keyboard key control via Renoise preferences, uses step line jump below Pattern Editor, octave and velocity on top of Renoise window…
 
-https://renoise.com/tools/chordlord (English) https://renoise.com/tools/acordesenor (Español) https://renoise.com/tools/senhoracordes (Português) https://renoise.com/tools/accordseigneur (Français) https://renoise.com/tools/accordosignore (Italiano)
+https://renoise.com/tools/chordlord (English) 
+https://renoise.com/tools/acordesenor (Español) 
+https://renoise.com/tools/senhoracordes (Português) 
+https://renoise.com/tools/accordseigneur (Français) 
+https://renoise.com/tools/accordosignore (Italiano)
 
 Read the Manual PDF as attached.
 
