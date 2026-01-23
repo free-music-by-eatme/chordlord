@@ -1,7 +1,7 @@
 # chordlord
 ChordLord for Renoise 3
 
-version 4.01.235 with 235 chords in 36 scales/keys in harmony for all notes, edit step follow on record, a jump and up button, arpeggio (skip lines) with 4 modes in the options, window size, button size, chord complexity level with button colors, keyboard key control via Renoise preferences, uses step line jump below Pattern Editor, octave and velocity on top of Renoise window…
+version 4.02.235 with 235 chords in 36 scales/keys in harmony for all notes, fretboard string instrument neck display for EADG GCEA BEADG EADGBE, edit step follow on record, a jump and up button, arpeggio (skip lines) with 4 modes in the options, window size, button size, chord complexity level with button colors, keyboard key control via Renoise preferences, uses step line jump below Pattern Editor, octave and velocity on top of Renoise window…
 
 Read the Manual PDF as attached.
 
