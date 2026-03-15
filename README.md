@@ -14,17 +14,24 @@ Download Renoise on https://renoise.com/download or acquire a registration on ht
 Drop the .xrnx tool onto Renoise and access it via Renoise menu Tools.
 
 Note: when updating from ChordLord 3.09 to 4.03 
-- and selecting one of the bottom scales before updating in ChordLord 3.09 -
+and selecting one of the bottom scales before updating in ChordLord 3.09 -
 it is required now to Uninstall ChordLord before updating
 via Renoise menu Tools, Tool Browser..., select ChordLord, Uninstall.
 
 Translations are also available here:
+
 English: ChordLord .xrnx
+
 Italian: AccordoSignore .xrnx
+
 German: AkkordMann .xrnx
+
 French: AccordSeigneur .xrnx
+
 Spanish: AcordeSenor .xrnx
+
 Portuguese: SenhorAcordes .xrnx
+
 
 To download, click the .xrnx file here on Github, at the right top, 3 dots ■ ■ ■ click Download.
 
