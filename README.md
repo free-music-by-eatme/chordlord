@@ -1,7 +1,9 @@
 # chordlord
 ChordLord for Renoise 3
 
-version 4.03.235 with 235 chords in 36 scales/keys in harmony for all notes, computer keyboard interface control (Cursor Up Down Left Right, PGup, PGdown, AZERT/QWERTY piano), fretboard string instrument neck display for EADG GCEA BEADG EADGBE, edit step follow on record, a jump and up button, arpeggio (skip lines) with 4 modes in the options, window size, button size, chord complexity level with button colors, keyboard key control via Renoise preferences, uses step line jump below Pattern Editor, octave and velocity on top of Renoise window…
+version 4.04.235 with 235 chords in 36 scales/keys in harmony for all notes, computer keyboard interface control (Cursor Up Down Left Right, PGup, PGdown, AZERT/QWERTY piano), fretboard string instrument neck display for EADG GCEA BEADG EADGBE, edit step follow on record, a jump and up button, arpeggio (skip lines) with 4 modes in the options, window size, button size, chord complexity level with button colors, keyboard key control via Renoise preferences, uses step line jump below Pattern Editor, octave and velocity on top of Renoise window.
+
+new: key F1-F10 for color presets.
 
 Read the Manual PDF as attached.
 
@@ -13,7 +15,7 @@ Download Renoise on https://renoise.com/download or acquire a registration on ht
 
 Drop the .xrnx tool onto Renoise and access it via Renoise menu Tools.
 
-Note: when updating from ChordLord 3.09 to 4.03 
+Note: when updating from ChordLord 3.09 to 4.04 
 and selecting one of the bottom scales before updating in ChordLord 3.09 -
 it is required now to Uninstall ChordLord before updating
 via Renoise menu Tools, Tool Browser..., select ChordLord, Uninstall.
